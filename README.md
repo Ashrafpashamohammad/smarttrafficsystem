@@ -99,8 +99,12 @@ Smart_traffic_controller/
 ├── requirements.txt
 └── README.md
 
-🤝 Contact
-GitHub – @Ashrafpashamohammad
-Project Link – https://github.com/Ashrafpashamohammad/Smart_traffic_controller
+### 🤝 Contact
 
-⭐ Star this repository if you find the project valuable or innovative!
+GitHub – [@Ashrafpashamohammad](https://github.com/Ashrafpashamohammad)  
+Project Link – [https://github.com/Ashrafpashamohammad/Smart_traffic_controller](https://github.com/Ashrafpashamohammad/Smart_traffic_controller)
+
+---
+
+⭐ *Star this repository if you find the project valuable or innovative!*
+
