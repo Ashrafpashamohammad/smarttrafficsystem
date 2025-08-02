@@ -95,9 +95,9 @@ Smart_traffic_controller/
 
 🤝 Contact
 
-GitHub – @Ashrafpashamohammad  
 Project Link – https://github.com/Ashrafpashamohammad/Smart_traffic_controller
 
 ⭐ Star this repository if you find the project valuable or innovative!
+
 
 
