@@ -78,6 +78,7 @@ The system is ideal for smart cities aiming to reduce congestion, prioritize eme
 
 📂 Project Structure
 
+```bash
 Smart_traffic_controller/
 ├── app.py
 ├── yolov5_model/        # Custom-trained YOLOv5 weights
@@ -98,3 +99,4 @@ GitHub – @Ashrafpashamohammad
 Project Link – https://github.com/Ashrafpashamohammad/Smart_traffic_controller
 
 ⭐ Star this repository if you find the project valuable or innovative!
+
