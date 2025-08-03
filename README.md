@@ -95,9 +95,10 @@ Smart_traffic_controller/
 
 🤝 Contact
 
-Project Link – https://github.com/Ashrafpashamohammad/Smart_traffic_controller
+Project Link – @[https://github.com/Ashrafpashamohammad/Smart_traffic_controller](https://github.com/ashraf1808/smart_traffic_system)
 
 ⭐ Star this repository if you find the project valuable or innovative!
+
 
 
 
